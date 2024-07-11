@@ -1,0 +1,68 @@
+{
+    "videos":
+    [
+        {
+            "id": 1,
+            "title": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+            "url": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+            "description": "¿Conoces el término CSS? ¿Sabes que és? En este alura.tips Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida.",
+            "category": "Front End"
+        },
+        {
+            "id": 2,
+            "title": "¿Qué es JavaScript?",
+            "url": "https://www.youtube.com/embed/GJfOSoaXk4s",
+            "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+            "category": "Front End"
+        },
+        {
+            "id": 3,
+            "title": "Equipo Front End",
+            "url": "https://www.youtube.com/embed/rpvrLaBQwgg",
+            "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+            "category": "Front End"
+        },
+        {
+            "id": 4,
+            "title": "¿Qué Es Spring Framework?",
+            "url": "https://www.youtube.com/embed/FqztWwPIrKo",
+            "description": "¿Qué es un Framework? y ¿Cuál es la diferencia entre una Librería y un Framework? En este video, Ícaro Oliveira y Gabriela Aguiar nos responden esas y otras preguntas. ",
+            "category": "Back End"
+        },
+        {
+            "id": 5,
+            "title": "¿Qué es SQL y NoSQL?",
+            "url": "https://www.youtube.com/embed/cLLKVd5CNLc",
+            "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+            "category": "Back End"
+        },
+        {
+            "id": 6,
+            "title": "Simplificando tu código en Java: Conoce los enum",
+            "url": "https://www.youtube.com/embed/EoPvlE85XAQ",
+            "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+            "category": "Back End"
+        },
+        {
+            "id": 7,
+            "title": "7 Soft Skills más demandadas de 2024",
+            "url": "https://www.youtube.com/embed/_-9grhDhxiU",
+            "description": "En este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024.",
+            "category": "Innovación y gestión"
+        },
+        {
+            "id": 8,
+            "title": "¿Qué son las metodologias ágiles?",
+            "url": "https://www.youtube.com/embed/6N3OkLCfK-0",
+            "description": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+            "category": "Innovación y gestión"
+        },
+        {
+            "id": 9,
+            "title": "¿Cuáles son las soft y hard skills necesarias para trabajar con tecnología?",
+            "url": "https://www.youtube.com/embed/7lnmW8fB0nM",
+            "description": "¿Quieres saber cuáles son las Soft Skills más buscadas en el área de tecnología? En este video nuestras invitadas comentan sobre las Soft Skills y Hard Skills necesárias para trabajar con tencología.",
+            "category": "Innovación y gestión"
+        }
+    ]
+}
