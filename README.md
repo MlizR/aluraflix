@@ -1,8 +1,15 @@
-# React + Vite
+# AluraFlix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Challenge de Alura
 
-Currently, two official plugins are available:
+Proyecto en el cual se implementan los verbos HTTP mas usados en una API Rest (GET, POST, PUT y DELETE).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Desktop
+<image src="/public/img/desktop.png" alt="Responsive Desktop">
+
+- Tablet
+<image src="/public/img/tablet.png" alt="Responsive Tablet">
+
+- Mobile
+<image src="/public/img/mobile.png" alt="Responsive Desktop">
+
